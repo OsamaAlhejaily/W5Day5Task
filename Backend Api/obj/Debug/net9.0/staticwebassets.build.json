@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "1N0dzS3k2JE5Qq9In6iMkdseQU6cFZ3qxSOx13wl9gk=",
+  "Source": "ProductApi",
+  "BasePath": "_content/ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductApi\\wwwroot",
+      "Source": "ProductApi",
+      "ContentRoot": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\laptop.jpg",
+      "SourceId": "ProductApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "RelativePath": "images/laptop#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7qzild582u",
+      "Integrity": "oaFWl+8F/8aI0jGFWnjD95vL0H3zpg+/utYuD0ayZIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\laptop.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\phone.jpg",
+      "SourceId": "ProductApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "RelativePath": "images/phone#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9sqkee2arj",
+      "Integrity": "Z9XxQjgQKxr14Wqke3bSNPf9zq/50Zf/80wdfW9C0LU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\phone.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\tablet.jpg",
+      "SourceId": "ProductApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "RelativePath": "images/tablet#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nyohfon13a",
+      "Integrity": "nxdgVqm940J2hynuj+M5DdykNu33reEwe3ORyL0HzY4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tablet.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/laptop.7qzild582u.jpg",
+      "AssetFile": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\laptop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oaFWl+8F/8aI0jGFWnjD95vL0H3zpg+/utYuD0ayZIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7qzild582u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/laptop.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oaFWl+8F/8aI0jGFWnjD95vL0H3zpg+/utYuD0ayZIs="
+        }
+      ]
+    },
+    {
+      "Route": "images/laptop.jpg",
+      "AssetFile": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\laptop.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oaFWl+8F/8aI0jGFWnjD95vL0H3zpg+/utYuD0ayZIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oaFWl+8F/8aI0jGFWnjD95vL0H3zpg+/utYuD0ayZIs="
+        }
+      ]
+    },
+    {
+      "Route": "images/phone.9sqkee2arj.jpg",
+      "AssetFile": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\phone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9XxQjgQKxr14Wqke3bSNPf9zq/50Zf/80wdfW9C0LU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9sqkee2arj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/phone.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9XxQjgQKxr14Wqke3bSNPf9zq/50Zf/80wdfW9C0LU="
+        }
+      ]
+    },
+    {
+      "Route": "images/phone.jpg",
+      "AssetFile": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\phone.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9XxQjgQKxr14Wqke3bSNPf9zq/50Zf/80wdfW9C0LU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:47:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9XxQjgQKxr14Wqke3bSNPf9zq/50Zf/80wdfW9C0LU="
+        }
+      ]
+    },
+    {
+      "Route": "images/tablet.jpg",
+      "AssetFile": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\tablet.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nxdgVqm940J2hynuj+M5DdykNu33reEwe3ORyL0HzY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nxdgVqm940J2hynuj+M5DdykNu33reEwe3ORyL0HzY4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tablet.nyohfon13a.jpg",
+      "AssetFile": "C:\\Users\\Oussama\\Desktop\\ProductApi\\wwwroot\\images\\tablet.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nxdgVqm940J2hynuj+M5DdykNu33reEwe3ORyL0HzY4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nyohfon13a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tablet.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nxdgVqm940J2hynuj+M5DdykNu33reEwe3ORyL0HzY4="
+        }
+      ]
+    }
+  ]
+}
